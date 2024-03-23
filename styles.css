@@ -1,7 +1,62 @@
-h1 {
-    color:blue;
+:root {
+    --main: #2F3B65 ;
+    --secondary: white; 
+    --accent: #1C892D;
+    --text: #B3B3B3;
+    --text-accent: #818181; 
+
 }
 
-p {
-    color:blueviolet;
+body {
+    margin: 0px;
+    background: var(--main);
+
+    color: var(--text);
+    font-size: inherit;
+}
+
+h1 { 
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-variation-settings:
+        "wdth" 100;
+    font-size: 10vh;
+}
+
+project-tech {
+    display: flex;
+    width: 100%;
+}
+
+project-links {
+    display: flex;
+    width: 100%;
+}
+
+/* Utility Classes */
+
+page {
+    width: 100vw;
+    margin: 10px 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.div-page {
+    width: 100%;
+}
+
+.center {
+    text-align: center;
+}
+
+.display-flex {
+    display: flex;
+    width: 100%;
 }
