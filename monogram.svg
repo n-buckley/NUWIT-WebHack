@@ -1,0 +1,57 @@
+<svg id="untitled" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<g id="untitled-u-outside-circle" mask="url(#untitled-u-masks)">
+    <path id="untitled-u-ellipse" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="translate(960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="30"/>
+    <mask id="untitled-u-masks" mask-type="luminance" x="-150%" y="-150%" height="400%" width="400%">
+        <g id="untitled-s-g1" transform="matrix(1 0 0 1.015516 0-8.594457)">
+            <rect id="untitled-s-rect1" width="453.265226" height="878.611942" rx="0" ry="0" transform="matrix(.925756 0 0 1 481.382371 114.603374)" fill="#d2dbed" stroke-width="0"/>
+            <rect id="untitled-s-rect2" width="441.769369" height="858.904759" rx="0" ry="0" transform="matrix(.765203 0 0 0.995603 1042.355959 116.491676)" fill="#d2dbed" stroke-width="0"/>
+            <rect id="untitled-s-rect3" width="116.512987" height="42.668769" rx="0" ry="0" transform="matrix(2.008828 0 0-1.906678 816.834377 987.398275)" fill="#d2dbed" stroke-width="0"/>
+        </g>
+    </mask>
+</g>
+<g id="untitled-u-b-curve" clip-path="url(#untitled-u-clipping-paths)">
+    <path id="untitled-u-circle-for-b" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="30"/>
+    <clipPath id="untitled-u-clipping-paths">
+        <path id="untitled-u-b-circle-clipping-path" d="M1276.473933,580.367773L1262.60314,448.433954l12.462205-6.989753l21.881468-9.526625-2.149957-34.953062-114.151702-155.029041-114.193548-52.258065-24.095695,18.999235v69.619293l212.337282,139.344778l7.573745-3.553043l12.698799,27.226224-12.465497,5.858199l13.695912,133.483723l11.678403,2.22514-6.616212,29.620269-12.743312-3.085558-226.159126,234.71256-.000001,22.344096-29.293879-.000001v-19.974263v37.925233l156.369166-29.634274L1311.31157,633.892635l3.226398-45.137871-38.064035-8.386991Z" transform="translate(.000007 0.000013)" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<g id="untitled-u-b-up" clip-path="url(#untitled-u-clipping-paths2)">
+    <path id="untitled-u-b-up2" d="M1028.08158,540l240.433455-112.272493" transform="translate(.000001 0)" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+    <clipPath id="untitled-u-clipping-paths2">
+        <path id="untitled-u-b-up-mask" d="M1042.904726,515.569407l.078108,12.606997l31.743073,7.027987l208.078758-90.655144-15.489317-35.785661-217.384534,91.867666-7.026088,14.938155Z" transform="translate(.000001 0)" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<g id="untitled-u-b-down" clip-path="url(#untitled-u-clipping-paths3)">
+    <path id="untitled-u-b-down2" d="M1028.081581,540l256.309723,57.603591" transform="translate(.000001 0.000001)" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+    <clipPath id="untitled-u-clipping-paths3">
+        <path id="untitled-u-b-down-clip" d="M1074.297228,534.922383l-31.523199-6.927097.179245,33.877294l225.905043,56.650218l30.623358,6.124672l1.020779-76.558395-202.333686-27.614627-23.87154,14.447935Z" transform="translate(0 0.000001)" fill="none" stroke="#3f5787" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<line id="untitled-u-b-line" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(-1 0 0 0.909411 1028.08158 503.881365)" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+<g id="untitled-u-n-line" clip-path="url(#untitled-u-clipping-paths4)">
+<line id="untitled-u-n-line2" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(1 0 0 0.810254 887.276497 531.732919)" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+    <clipPath id="untitled-u-clipping-paths4">
+        <path id="untitled-s-path1" d="M863.525892,378.373473l49.023617-124.397764-.000001,646.617841-83.92837-34.121219l34.904754-488.098858Z" transform="translate(.000003 0.000003)" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<g id="untitled-u-n-circle-base" clip-path="url(#untitled-u-clipping-paths5)">
+    <path id="untitled-u-circle-for-n" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="30"/>
+        <clipPath id="untitled-u-clipping-paths5">
+    <path id="untitled-s-path2" d="M871.953488,839.03267v44.788839l30.752604,4.529815v-33.562296h-30.752604v-15.756358Z" transform="translate(0 0.000002)" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<g id="untitled-u-n-circle-curve" clip-path="url(#untitled-u-clipping-paths6)">
+    <path id="untitled-u-copy-of-circle-for-n" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="30"/>
+    <clipPath id="untitled-u-clipping-paths6">
+        <path id="untitled-s-path3" d="M699.99648,404.075596v-118.721536L614.851091,433.406799L603.677298,656.88263l74.02637,107.547744l22.292811,23.545814l34.600463-85.886102-46.173325-57.460139L699.99648,404.075596Z" transform="translate(.000001 0.000005)" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<g id="untitled-u-n-diag" clip-path="url(#untitled-u-clipping-paths7)">
+    <path id="untitled-u-n-diagnal" d="M912.549509,214.113224L699.99648,748.351797" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+    <clipPath id="untitled-u-clipping-paths7">
+        <path id="untitled-u-n-diag2" d="M891.921541,227.956647L838.374045,359.577211L695.84743,718.509605l2.831445,4.290067l3.517855,4.804876l3.689458,5.062279l3.689457,4.633272l3.346253,4.375869l3.003047,3.517855l1.229864,1.483951L902.887742,279.630811l-.931554-76.489984-10.034647,24.81582Z" stroke-width="3.84"/>
+    </clipPath>
+</g>
+<path id="untitled-u-curve-fix" d="M1042.355911,134.762998v6.527324l-28.741124.000001-.552755-9.818772q7.241182-3.235878,29.293879,3.291447" fill-opacity="0.5" stroke-width="2"/>
+<line id="untitled-u-center-line" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(1 0 0 1.001843 960 525.543684)" fill="none" stroke="#000" stroke-width="30" stroke-opacity="0.5"/>
+</svg>
