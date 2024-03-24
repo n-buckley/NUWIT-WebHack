@@ -1,9 +1,26 @@
 :root {
     --main: #20476C ;
     --secondary: white; 
-    --accent: #28A441;
+    --accent1: #28A441;
+    --accent2: #28A441;
     --text: #B3B3B3;
 
+}
+
+html[data-theme='dark'] {
+    --main: #20476C ;
+    --secondary: white; 
+    --accent1: #28A441;
+    --accent2: #28A441;
+    --text: #B3B3B3;
+}
+
+html[data-theme='light'] {
+    --main: #FFD7DD ;
+    --secondary: white; 
+    --accent1: #FF3855;
+    --accent2: #FF4D00;
+    --text: #4B5B4A;
 }
 
 body {
@@ -21,10 +38,11 @@ h1 {
     font-weight: 400;
     font-variation-settings: "wdth" 100;
     font-size: 8.5vw;
+    color: var(--secondary);
 }
 
 h3 {
-    color: var(--accent);
+    color: var(--accent1);
 }
 
 #logo-vector {
@@ -36,7 +54,7 @@ h3 {
     top: 1vh;
     z-index: -1;
 
-    filter: drop-shadow(0px 4px 4px rgba(237, 237, 237, 0.25));
+    filter: drop-shadow(0px 4px 5px rgba(237, 237, 237, 0.4));
 }
 
 #icons { 
@@ -45,8 +63,7 @@ h3 {
 }
 
 #icons:hover { 
-    color: var(--accent);
-    filter: drop-shadow(0px 0px 1px var(--text-accent));
+    color: var(--accent1);
 }
 
 .div-projects {

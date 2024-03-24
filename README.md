@@ -15,3 +15,9 @@ worked with SVGs for the monogram which was fun, I saw a [tutorial](https://deve
 also I'm finally working with ```@screen``` responsiveness which is damn annoying LOL 
 
 I am also really inspired by [Nandini Ghosh](https://nandinighosh.wixsite.com/nandinighosh/about), one of the presenters. Her website is ridiculously awesome and definitely makes me want to think and learn more about design and fonts :) 
+
+im in the middle of implementing [dark/light themse](https://lukelowrey.com/css-variable-theme-switcher/). I still want the switch in thesmes to change a couple other elemsnt - not just colors. For example the tooltip, images on screen, etc
+
+I think it would be fun to also once im happy w the html ive learned convert it into react
+
+I also want to go back and work on the [Girl Math](https://www.github.com/n-buckley/hack-the-patriarchy) tool
