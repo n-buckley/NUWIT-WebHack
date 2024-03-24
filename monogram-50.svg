@@ -1,0 +1,62 @@
+
+<svg id="monogram-50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<g id="monogram-50-u-outside-circle" mask="url(#monogram-50-u-masks)">
+<path id="monogram-50-u-ellipse" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="translate(960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="50"/>
+<mask id="monogram-50-u-masks" mask-type="luminance" x="-150%" y="-150%" height="400%" width="400%">
+<g id="monogram-50-s-g1" transform="matrix(1 0 0 1.015516 0-8.594457)">
+<rect id="monogram-50-s-rect1" width="453.265226" height="878.611942" rx="0" ry="0" transform="matrix(.925756 0 0 1 494.142242 114.603374)" fill="#d2dbed" stroke-width="0"/>
+<rect id="monogram-50-s-rect2" width="441.769369" height="858.904759" rx="0" ry="0" transform="matrix(.927464 0 0 0.995603 1002.90352 106.398779)" fill="#d2dbed" stroke-width="0"/>
+<rect id="monogram-50-s-rect3" width="116.512987" height="42.668769" rx="0" ry="0" transform="matrix(2.008828 0 0-2.411336 819.817739 998.164842)" fill="#d2dbed" stroke-width="0"/>
+</g>
+</mask>
+</g>
+<g id="monogram-50-u-b-curve" clip-path="url(#monogram-50-u-clipping-paths)">
+<path id="monogram-50-u-circle-for-b" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="50"/>
+<clipPath id="monogram-50-u-clipping-paths">
+<path id="monogram-50-u-b-circle-clipping-path" d="M1270.177786,568.821272l-10.594389-114.053067l17.882989-8.00947l22.814307-10.480779-5.483837-39.313442-114.151702-155.029041-114.193548-52.258065-13.371155,4.144767-.267568,95.254144l192.918084,128.822698l14.994729-6.367625l16.535283,35.124639-17.677582,8.112174l10.686393,114.14507l19.504834,4.416189-10.566644,47.255233-18.383326-4.050564-208.033689,219.595046.335672,19.376646-50.088686.247968.084552-10.738102-.647087,59.068538l166.955775-49.29521l151.430073-213.719754l4.456827-59.610144-55.140305-12.637849Z" transform="translate(.000007 0.000013)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-b-up" clip-path="url(#monogram-50-u-clipping-paths2)">
+<path id="monogram-50-u-b-up2" d="M1028.08158,540l240.433455-112.272493" transform="translate(.000001 0)" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+<clipPath id="monogram-50-u-clipping-paths2">
+<path id="monogram-50-u-b-up-mask" d="M1053.240449,515.716364l-.247443,14.84653l21.867021,13.019726l207.944638-99.033373-15.489317-35.785661-214.322342,92.106248.247443,14.84653Z" transform="translate(.000001 0)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-b-down" clip-path="url(#monogram-50-u-clipping-paths3)">
+<path id="monogram-50-u-b-down2" d="M1028.081581,540l256.309723,57.603591" transform="translate(.000001 0.000001)" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+<clipPath id="monogram-50-u-clipping-paths3">
+<path id="monogram-50-u-b-down-clip" d="M1075.073051,543.589406l-22.024804-12.980802-.341009,34.792229l216.151079,53.121965l30.623358,6.124672l1.020779-76.558395-198.935799-17.161271-26.493604,12.661602Z" transform="translate(0 0.000001)" fill="none" stroke="#3f5787" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-b-line" clip-path="url(#monogram-50-u-clipping-paths4)">
+<line id="monogram-50-u-b-line2" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(1 0 0 0.882327 1028.08158 503.881365)" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+<clipPath id="monogram-50-u-clipping-paths4">
+<path id="monogram-50-s-path1" d="M1003.132445,168.783925l17.089224,2.235299l16.296054,3.028469l9.606303,2.287993l9.095263,2.589322l1.75965,778.98403-54.472497-.870483.626003-788.25463Z" transform="translate(0 0.000006)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-n-line" clip-path="url(#monogram-50-u-clipping-paths5)">
+<line id="monogram-50-u-n-line2" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(-1 0 0 0.830573 887.276497 531.732919)" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+<clipPath id="monogram-50-u-clipping-paths5">
+<path id="monogram-50-s-path2" d="M857.116391,449.590579l54.953038-126.275064.480079,577.278035-83.92837-34.121219l28.495253-416.881752Z" transform="translate(.000003 0.000003)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-n-circle-base" clip-path="url(#monogram-50-u-clipping-paths6)">
+<path id="monogram-50-u-circle-for-n" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="50"/>
+<clipPath id="monogram-50-u-clipping-paths6">
+<path id="monogram-50-s-path3" d="M862.406779,839.240916l-.043127,44.90385l49.950981,10.118276.013586-31.382655-49.836488-.124887-.084952-23.514584Z" transform="translate(0 0.000002)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-n-circle-curve" clip-path="url(#monogram-50-u-clipping-paths7)">
+<path id="monogram-50-u-copy-of-circle-for-n" d="M-398.709678,0c0-220.201275,178.508403-398.709678,398.709678-398.709678s398.709678,178.508403,398.709678,398.709678-178.508403,398.709678-398.709678,398.709678-398.709678-178.508403-398.709678-398.709678Z" transform="matrix(.830989 0 0 0.830989 960 540)" opacity="0.5" fill="none" stroke="#000" stroke-width="50"/>
+<clipPath id="monogram-50-u-clipping-paths7">
+<path id="monogram-50-s-path4" d="M699.99648,404.075596v-118.721536L606.837411,435.34333l-7.325847,196.332685l78.192104,132.754359l31.695593,26.949093l39.559571-94.503419-60.535215-52.246101L699.99648,404.075596Z" transform="translate(.000001 0.000005)" stroke-width="3.84"/>
+</clipPath>
+</g>
+<g id="monogram-50-u-n-diag" clip-path="url(#monogram-50-u-clipping-paths8)">
+<path id="monogram-50-u-n-diagnal" d="M934.152706,210.399595L699.99648,748.351797" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+<clipPath id="monogram-50-u-clipping-paths8">
+<path id="monogram-50-u-n-diag2" d="M911.852024,199.789102L853.146176,334.905737L692.863158,698.501085l4.243836,6.890529l5.34361,8.0607l10.363368,14.679243l5.064559,6.223042l3.129032,3.945301l3.537167,4.081347l3.308524,4.639984L912.385518,323.585488l-.533494-123.796386Z" stroke-width="3.84"/>
+</clipPath>
+</g>
+<line id="monogram-50-u-center-line" x1="0" y1="-398.709678" x2="0" y2="398.709678" transform="matrix(-1 0 0 0.973566 960 525.543684)" fill="none" stroke="#000" stroke-width="50" stroke-opacity="0.5"/>
+</svg>

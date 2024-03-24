@@ -1,5 +1,5 @@
 :root {
-    --main: #545D7F ;
+    --main: #2F3B65 ;
     --secondary: white; 
     --accent: #1C892D;
     --text: #B3B3B3;
@@ -26,14 +26,6 @@ h1 {
 }
 
 
-logo {
-    width: 50em;
-    height: 50em;
-
-    position: absolute;
-    left: 0vw;
-    top: 1vh;
-}
 
 #logo-vector {
 
